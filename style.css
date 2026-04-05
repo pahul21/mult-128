@@ -1,0 +1,41 @@
+.msg {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+  color: white;
+  padding: 1rem 1.25rem;
+  margin: 1em 0;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  background: #888;
+}
+.msg:hover {
+  background: rgb(110.5, 110.5, 110.5);
+}
+.msg h1 {
+  margin: 0 0 0.2em 0;
+}
+
+.msg-info {
+  background: #2aa198;
+}
+.msg-info:hover {
+  background: rgb(31.4482758621, 120.5517241379, 113.8128078818);
+}
+
+.msg-warning {
+  background: #f1c40f;
+}
+.msg-warning:hover {
+  background: rgb(193.7007874016, 157.3818897638, 11.2992125984);
+}
+
+.msg-danger {
+  background: #e74c3c;
+}
+.msg-danger:hover {
+  background: rgb(213.698630137, 43.8356164384, 26.301369863);
+}
+
+/*# sourceMappingURL=style.css.map */
