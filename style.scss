@@ -19,6 +19,10 @@
 
   @include message-style();
 
+  .msg {
+  margin: 1.5em 0;
+}
+
   h1 {
     margin: 0 0 0.2em 0;
   }
