@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+  color: #02342c;
+}
+
+.navbar {
+  background-color: #02342c !important;
+}
+
+footer {
+  background-color: #02342c !important;
+}
+
+/*# sourceMappingURL=style.css.map */
